@@ -3,9 +3,9 @@ module.exports = {
         token: 'Put-Token-Here',
         prefix: 'Prefix',
         activity: 'discord.gg/novaworld',
-        name: 'Nova World',
-        logo: 'https://cdn.discordapp.com/attachments/1065584990533996584/1086659928099409961/pixiz-18-03-2023-14-41-24.jpg',
-        embedColor: 'Random'
+        name: '',
+        logo: '',
+        embedColor: ''
     },
 
     opt: {
